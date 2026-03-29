@@ -1,0 +1,1 @@
+This project simulates basic file encryption by transforming text using ASCII manipulation and inserting random characters to make the encrypted output harder to interpret. It also supports decryption to restore the original content.
